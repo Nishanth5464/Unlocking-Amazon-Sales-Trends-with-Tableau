@@ -1,6 +1,6 @@
 # Unlocking Amazon Sales Trends with Tableau
 
-#Introduction
+# Introduction
 
 This project analyzes Amazon's sales data from 2012 to 2015. Known for its innovation and dominance in e-commerce, cloud computing, and digital streaming, Amazon is one of the world's top technology companies, alongside Alphabet, Apple, Meta, and Microsoft. By 2023, it was the largest online retailer and marketplace, a leader in cloud services through AWS, and a top player in smart speakers and live streaming via Twitch.
 
